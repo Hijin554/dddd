@@ -1,0 +1,7 @@
+PORT = 8000
+
+DB_USER=postgres
+DB_HOST=34.204.196.162
+DB_DATABASE=postgres
+DB_PASSWORD=postgres
+DB_PORT=5432
